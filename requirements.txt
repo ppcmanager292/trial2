@@ -2,6 +2,5 @@ keras
 matplotlib
 numpy
 matplotlib
-os
 scikit-learn
 scipy
